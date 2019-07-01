@@ -1,4 +1,4 @@
-# smart-home-adafruit-esp8266
+# Smart Home with Google Home, Adafruit and ESP8266
 Adafruit IO MQTT Subscriber project with esp8266
 
 Smart Home project example:
